@@ -1,0 +1,2 @@
+# code_for_fun_and_money
+分享及紀錄我學習程式語言的探險
